@@ -10,3 +10,4 @@ Salut! Sunt Dario și acesta este primul meu proiect pe GitHub.
 ## Ce învăț acum
 - GitHub
 - terminalul
+Am trimis asta de pe calculatorul meu!
